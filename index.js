@@ -33,7 +33,7 @@ app.get("/", (req, res) => {
   res.send(`
     <html>
       <head>
-        <title>Typing Test API</title>
+        <title>Random Name Generater API</title>
       </head>
       <body>
         <h1>Typing Test API</h1>
