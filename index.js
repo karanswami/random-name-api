@@ -36,7 +36,7 @@ app.get("/", (req, res) => {
         <title>Random Name Generater API</title>
       </head>
       <body>
-        <h1>Typing Test API</h1>
+        <h1>Random Name Generater API</h1>
         <p>To use this API, make a GET request to the <code>/names</code> endpoint. The response will be a random name in json formet. </p>
       </body>
     </html>
